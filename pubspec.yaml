@@ -47,7 +47,7 @@ dependencies:
   linkify: ^5.0.0
   logging: ^1.1.0
   material_color_utilities: ^0.11.1
-  meta: ^1.8.0
+  meta: ^1.15.0
   network_image_mock: ^2.1.1
   package_info_plus: ^8.0.0
   path: ^1.8.2
